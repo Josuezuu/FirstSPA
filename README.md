@@ -16,6 +16,6 @@ The goal here is to create an SPA with routes using javascript.
 
 Languages used:
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
